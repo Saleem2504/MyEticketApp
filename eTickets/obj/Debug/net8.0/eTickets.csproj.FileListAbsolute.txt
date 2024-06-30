@@ -494,3 +494,4 @@ C:\Users\Saleem-Ahmad\Desktop\E-TicketApp\eTickets\obj\Debug\net8.0\scopedcss\bu
 C:\Users\Saleem-Ahmad\Desktop\E-TicketApp\eTickets\obj\Debug\net8.0\eTickets.csproj.Up2Date
 C:\Users\Saleem-Ahmad\Desktop\E-TicketApp\eTickets\obj\Debug\net8.0\eTickets.genruntimeconfig.cache
 C:\Users\Saleem-Ahmad\Desktop\E-TicketApp\eTickets\obj\Debug\net8.0\ref\eTickets.dll
+C:\Users\Saleem-Ahmad\Desktop\E-TicketApp\eTickets\obj\Debug\net8.0\eTickets.sourcelink.json
